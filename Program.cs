@@ -8,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 Microsoft.IdentityModel.Logging.IdentityModelEventSource.ShowPII = true;
 builder.Services.AddControllers();
+//use sql
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

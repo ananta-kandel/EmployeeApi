@@ -610,3 +610,4 @@
 /Users/anantakandel/Desktop/NotThisTimeThenNot/dotnet/EmployeeApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/anantakandel/Desktop/NotThisTimeThenNot/dotnet/EmployeeApi/bin/Debug/net9.0/MySqlConnector.dll
 /Users/anantakandel/Desktop/NotThisTimeThenNot/dotnet/EmployeeApi/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/anantakandel/Desktop/NotThisTimeThenNot/dotnet/EmployeeApi/obj/Debug/net9.0/TodoApi.sourcelink.json
